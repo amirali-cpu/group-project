@@ -4,6 +4,10 @@ students = [
      {"first_name": "taher", "last_name": "jamali", "student_number": 8104},
      {"first_name": "Reza", "last_name": "paktinat", "student_number":8113},
      {"first_name": "arvin", "last_name": "hatef", "student_number": 8102},
+      {"first_name": "Yasaman", "last_name": "Kazemi", "student_number": 8009},
+     {"first_name": "Sarah", "last_name": "RokniDoost", "student_number": 8004},
+    
+
     
     
 ]
