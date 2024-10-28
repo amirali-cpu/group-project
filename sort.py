@@ -2,10 +2,8 @@
 students = [
     {"first_name": "Amirali", "last_name": "gholami", "student_number":8077},
     {"first_name": "taher", "last_name": "jamali", "student_number": 8104},
-     {"first_name": "Yasaman", "last_name": "Kazemi", "student_number": 8009},
-     {"first_name": "Sarah", "last_name": "RokniDoost", "student_number": 8004},
-    
-    
+    {"first_name": "Maryam", "last_name": "Gholipour", "student_number": 8210},
+{"first_name": "Parnia", "last_name": "Nouri", "student_number": 8189},
 ]
 
 # Function to display students
