@@ -1,9 +1,11 @@
 # Sample list of students with first name, last name, and student number
 students = [
-    {"first_name": "Amirali", "last_name": "gholami", "student_number":8077},
-    {"first_name": "taher", "last_name": "jamali", "student_number": 8104},
-    {"first_name": "Maryam", "last_name": "Gholipour", "student_number": 8210},
-{"first_name": "Parnia", "last_name": "Nouri", "student_number": 8189},
+     {"first_name": "Amirali", "last_name": "gholami", "student_number":8077},
+     {"first_name": "taher", "last_name": "jamali", "student_number": 8104},
+     {"first_name": "Reza", "last_name": "paktinat", "student_number":8113},
+     {"first_name": "arvin", "last_name": "hatef", "student_number": 8102},
+    
+    
 ]
 
 # Function to display students
